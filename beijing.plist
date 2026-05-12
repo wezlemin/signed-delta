@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-  					<string>https://github.com/wezlemin/signed-delta/releases/download/v717/signed_zyFqB6MQEKrs.ipa</string>
+  					<string>https://github.com/wezlemin/signed-delta/releases/download/v720/signed_delta_v720.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.gloop.deltamobile</string>
 				<key>bundle-version</key>
-				<string>2.717.982</string>
+				<string>2.720.1164</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
